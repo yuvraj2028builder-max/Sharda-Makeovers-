@@ -1,0 +1,12 @@
+# agent skills tooling — never deploy
+.agents/
+.claude/
+agent/
+skills-lock.json
+
+# the other client's site — deployed separately, never with Sharda
+index.html
+
+# OS junk
+Thumbs.db
+Desktop.ini
